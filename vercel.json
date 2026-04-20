@@ -1,6 +1,6 @@
 {
   "version": 2,
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/get-key" }
+    { "source": "/(.*)", "destination": "/api/get_post_key" }
   ]
 }
